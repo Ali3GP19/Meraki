@@ -1,4 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bwit.merakiapp">
     <application
         android:label="meraki_app"
         android:name="${applicationName}"
